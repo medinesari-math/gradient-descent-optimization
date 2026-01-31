@@ -50,3 +50,5 @@ Deterministic Gradient Descent follows smooth trajectories toward a local minimu
 ## Topics Involved
 
 Numerical optimization, gradient-based algorithms, stochastic processes, and mathematical modeling
+
+**Written by Medine Sarı**  
